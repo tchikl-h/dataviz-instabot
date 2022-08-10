@@ -6,7 +6,7 @@
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
 
-console.log("toto")
+console.log("toto");
 
 export default {
   name: "App",
